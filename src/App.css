@@ -16,9 +16,11 @@
 }
 
 body{
-  background-image: url(./helper/support-7965543_1920.jpg);
+  background-image: url(./helper/office-desk-6180925_1920.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: right center;
+  min-height:100vh ;
 }
 
 .accord .accordion-item {
